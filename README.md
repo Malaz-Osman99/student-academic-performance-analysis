@@ -231,6 +231,3 @@ Applying statistical testing to validate differences between groups
 Using machine learning models to predict student performance
 Performing correlation analysis
 Building an interactive dashboard using tools like Power BI or Tableau
-
-
-والفرق سيكون كبير جدًا في شكل المشروع.
